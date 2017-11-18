@@ -2,7 +2,7 @@
  * Solution of Missing String
  * http://www.lintcode.com/en/problem/missing-string/
  * @author: Chong Wang
- * Date: 115/11/17, 16:52
+ * Date: 15/11/17, 16:52
  */
  
  //HashSet creates a collection that uses a hash table for storage.
